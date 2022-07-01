@@ -1,0 +1,11 @@
+ch\ilv\crm\business\customer\CustomerFactory.class
+ch\ilv\crm\business\test\customer\CustomerFactoryTest.class
+ch\ilv\crm\business\customer\AbstractCustomer.class
+ch\ilv\crm\business\product\ProductFactory.class
+ch\ilv\crm\business\test\view\ViewTest.class
+ch\ilv\crm\business\product\BCProduct.class
+ch\ilv\crm\business\customer\ICustomer.class
+ch\ilv\crm\business\test\product\ProductFactoryTest.class
+ch\ilv\crm\business\customer\BCCustomer.class
+ch\ilv\crm\business\product\IProduct.class
+ch\ilv\crm\business\product\AbstractProduct.class
